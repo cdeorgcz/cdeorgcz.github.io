@@ -1,9 +1,9 @@
 ## Centrum pro dopravu a energetiku
 ## Centre for Transport and Energy
 
-[See our Github profile](https://github.io/cdeorgcz)
+[Our Github profile](https://github.io/cdeorgcz)
 
-[See our website](https://cde-org.cz)
+[Website](https://cde-org.cz)
 
 ### Github projects
 
