@@ -7,4 +7,4 @@
 
 ### Github projects
 
-- ESI Funds Climate Tagging [code](https://github.io/cdeorgcz/esiftagging) [documentation](https://cdeorgcz.github.io/esiftagging/)
+- ESI Funds Climate Tagging: [code](https://github.io/cdeorgcz/esiftagging) | [documentation](https://cdeorgcz.github.io/esiftagging/)
